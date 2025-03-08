@@ -18,5 +18,6 @@ I love writing efficient code and optimizing both my programs and my lifestyle. 
 ### 📫 Connect with me  
 - **GitHub:** [tamimiqbaldev](https://github.com/tamimiqbaldev)  
 - **Codeforces:** [buggytam](https://codeforces.com/profile/buggytam)  
+- **LinkedIn:** [tamimiqbaldev](https://www.linkedin.com/in/tamimiqbaldev)  
 
-#### Moto:- 💡 *Break. Debug. Optimize. Repeat.* 
+#### Moto:- 💡 *Break. Debug. Optimize. Repeat.*  
